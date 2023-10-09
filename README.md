@@ -1,15 +1,3 @@
-# TODO:
-- Clean code (Reduce code into only necessary bits)
-- Hight score mechanics
-- Difficulties
+# Astroids made with Python pygame
 
-## Inheritance
-
-Global
-|- Game
-|- Astroid
-   |- Astroid_obj
-|- SpaceShip
-|- Lazer
-   |- Lazer_obj
-|- Pointsystem
+Basic game settings are found in the Global.py file and its class.
